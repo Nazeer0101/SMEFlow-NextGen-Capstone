@@ -100,6 +100,3 @@ Keep screenshots of:
 8. GitHub repository
 9. Deployed application
 10. Test results
-
-## Important
-Do not submit the capstone until the application has been deployed and the public URL has been tested in an incognito/private browser window.
